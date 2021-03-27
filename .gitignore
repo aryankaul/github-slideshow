@@ -1,4 +1,10 @@
-_site/
-.sass-cache/
-.jekyll-metadata
-.bundle
+/live/
+/logs/
+/target/
+/avatars/
+/backups/
+/database/
+/.idea/
+nb*.xml
+*.conf
+/nbproject/
